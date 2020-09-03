@@ -1,4 +1,4 @@
-# For ddos retards
+# For DDoS retards
 # Enjoy
 # >Commands< 
 gcc -o NAME NAME.C -pthread
